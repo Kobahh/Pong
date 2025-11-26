@@ -63,3 +63,6 @@ Known Issues
 -   In update(), vertical movement uses ballPosition.y += xSpeed instead
     of += ySpeed.
 -   Canvas had a typo (widht instead of width) in your original HTML.
+
+This project is based on an exercise from "JavaScript Crash Course" by Nick Morgan.
+I rewrote and expanded the code for learning purposes.
